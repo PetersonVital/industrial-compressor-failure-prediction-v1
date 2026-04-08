@@ -170,7 +170,7 @@ O modelo recebe dados de sensores e retorna:
 ### 1. Clonar o repositório
 
 ```
-git clone 
+git clone https://github.com/PetersonVital/industrial-compressor-failure-prediction-v1.git
 cd industrial-compressor-failure-prediction-v1
 ```
 
