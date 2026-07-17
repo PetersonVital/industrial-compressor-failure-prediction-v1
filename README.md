@@ -148,7 +148,6 @@ O modelo recebe dados de sensores e retorna:
 ├── modelo_compressor_excel.h5
 ├── scaler.pkl
 ├── label_encoder.pkl
-├── training_history.csv
 └── README.md
 ```
 
@@ -174,7 +173,7 @@ git clone https://github.com/PetersonVital/industrial-compressor-failure-predict
 cd industrial-compressor-failure-prediction-v1
 ```
 
-### 2. Criar ambiente virtual (Python 3.10 recomendado)
+### 2. Criar ambiente virtual (Python 3.12 recomendado)
 
 ```
 py -3.12 -m venv .venv
